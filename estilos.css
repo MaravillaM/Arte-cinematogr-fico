@@ -1,0 +1,220 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Merienda');
+
+@import url('https://fonts.googleapis.com/css?family=Krub|Mali|Niramit');
+h1,h2 {
+    font-family: 'Krub', sans-serif;
+ }
+h3,h4{
+    font-family: 'Niramit', sans-serif;
+}
+p {
+    font-family: 'Mali', cursive;
+
+}
+body{
+    background-image: url(fondo.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+
+}
+.banner__titulo {
+    font-family: 'Amatic SC', cursive;
+
+}
+.menu__item{
+    text-align: center;
+    font-size: 150%;
+}
+
+    .contenedor {
+	width: 95%;
+	max-width:1000px;
+	margin:auto;
+}
+ 
+.contenedor p {
+	margin-bottom:20px;
+}
+ 
+header nav {
+    align-content: center;
+	background: #FF9F2B;
+	margin-bottom:5px;
+}
+ 
+header nav ul {
+	list-style: none;
+	overflow: hidden;
+}
+ 
+header nav ul li {
+	float: left;
+}
+ 
+header nav ul li a {
+	display: block;
+	padding:20px;
+	color:#fff;
+	text-decoration: none;
+}
+ 
+header nav ul li a:hover {
+	background:#F49929;
+}
+.menu-fixed {
+	position:fixed;
+	z-index:1000;
+	top:0;
+	max-width:1000px;
+	/*left:0;*/
+	width:100%;
+	box-shadow:0px 4px 3px rgba(0,0,0,.5);
+}
+.menu{
+    text-align: center;
+    margin-left: 20%;
+}
+.parra {
+    text-align: center;
+	padding-left: 40px;
+	padding-right: 40px;
+	color: white;
+    font-size: 20px;  
+    margin-right: 15%;
+    margin-left: 15%;
+}
+.per{
+    background-image: url(fond.png);
+    border-radius: 10px;
+    box-shadow: 0px 3px 2px #999999;
+
+}
+.boton {
+    background: #FF9F2B;
+    color: white;
+    display: inline-block;
+    font-size:1.25em;
+    margin: 10px;
+    padding: 5px 0px;
+    text-align: center;
+    width: 200px;
+    text-decoration: none;
+    box-shadow: 0px 3px 2px #999999;
+    border-radius: 5px;
+}
+.banner__img{
+    left: 0;
+    width: 100%;
+    top:0;
+    margin: 0;
+}
+body{
+    margin: 0;
+}
+.ulum{
+    text-align: center;
+}
+.banner{
+text-align: center;
+    font-size: 15px;
+    background-image: url(fond.png);
+    margin:0;
+}
+.logo {
+    color: white;
+    font-family: 'Merienda', cursive;
+
+ 
+    
+}
+.banner__titulo{
+    color: white;
+    font-size: 54px;
+    
+
+}
+
+.banner__txt{
+    font-size: 44px;
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 5px;
+    box-shadow: 0px 5px 2px #999999;
+    width: 40%;
+     margin-right: 30%;
+    margin-left: 30%;
+}
+.uhy{
+    width: 35%;
+}
+h4 {
+    color: white;
+}
+.pr1{
+    text-align: center;
+	padding-left: 80px;
+	padding-right: 80px;
+	margin-right: 10%;
+    margin-left: 10%;
+    font-size: 110%;
+}
+
+.pr2{
+    text-align: center;
+	padding-left: 80px;
+	padding-right: 80px;
+	margin-right: 10%;
+    margin-left: 10%;
+    font-size: 110%;
+    background-color:#fff; 
+    border-radius: 5px;
+        box-shadow: 0px 3px 2px #999999;
+font-size: 120%;
+    
+}
+.copyright {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #717070;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	border-top-width: 2px;
+ }
+.footer_banner {
+	background-image: url(lite.jpg);
+	background-repeat: no-repeat;
+    left: 0;
+ }
+
+.vide1{
+    width: 40%;
+    margin-right: 30%;
+    margin-left: 30%;
+ }
+.presen{
+    width: 30%;
+    margin-right: 30%;
+    margin-left: 30%;
+}
+.historia{
+        background: #FF9F2B;
+    color: white;
+    display: inline-block;
+    font-size:1.25em;
+    margin: 10px;
+    padding: 5px 0px;
+    text-align: center;
+    width: 200px;
+    text-decoration: none;
+    box-shadow: 0px 3px 2px #999999;
+    border-radius: 5px;
+    margin-left: 40%;
+}
+}
